@@ -24,3 +24,5 @@ bin/clean-images
 ```
 
 Start your containers and then navigate to [http://localhost:8080](http://localhost:8080) to run your drupal installation.
+
+Installation process should look exactly like in this [video](https://youtu.be/U6ZifJ3LlnY).
